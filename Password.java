@@ -13,7 +13,7 @@ public class Password extends JFrame{
             scanner.nextLine();
 
             switch (choice) {
-                case 1://加密
+                case 1://加密功能
                     System.out.println("==============================");
                     System.out.println("欢迎使用密码管理系统");
                     System.out.println("==============================");
@@ -57,7 +57,7 @@ public class Password extends JFrame{
                     break;
 
 
-                case 2://解密
+                case 2://解密功能
                     System.out.println("==============================");
                     System.out.println("欢迎使用密码管理系统");
                     System.out.println("==============================");
