@@ -1,7 +1,11 @@
 import javax.swing.*;
 import java.security.SecureRandom;
 import java.util.*;
+<<<<<<< HEAD
 //hello,cgl,meinv,update2
+=======
+hello,cgl,meinv,chaomei.updata
+>>>>>>> a09e1aeef298cd70d2e9f0d121615c82851a1e92
 public class Password extends JFrame{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
