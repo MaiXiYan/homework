@@ -1,7 +1,7 @@
 import javax.swing.*;
 import java.security.SecureRandom;
 import java.util.*;
-hello,cgl
+hello,cgl,meinv
 public class Password extends JFrame{
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
